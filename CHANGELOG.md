@@ -3,6 +3,8 @@
 ## [v1.0.0.19](https://github.com/Necrobot-Private/NecroBot/tree/v1.0.0.19) (2016-11-14)
 [Full Changelog](https://github.com/Necrobot-Private/NecroBot/compare/v1.0.0.18...v1.0.0.19)
 
+- Fixes #336 - Fix pokestop and pokemon limits being doubly-counted whenever the bot relogged.
+
 ## [v1.0.0.18](https://github.com/Necrobot-Private/NecroBot/tree/v1.0.0.18) (2016-11-14)
 [Full Changelog](https://github.com/Necrobot-Private/NecroBot/compare/v1.0.0.17...v1.0.0.18)
 
